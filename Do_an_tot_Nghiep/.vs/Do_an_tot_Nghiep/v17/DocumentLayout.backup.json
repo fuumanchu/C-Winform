@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|d:\\datn\\c#winform\\do_an_tot_nghiep\\do_an_tot_nghiep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|solutionrelative:do_an_tot_nghiep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\SimpleDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|solutionrelative:Do_an_tot_Nghiep\\SimpleDataClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\do_an_tot_nghiep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8230AC75-B87D-4048-8435-B2C0AA63034D}|Do_an_tot_Nghiep\\Do_an_tot_Nghiep.csproj|solutionrelative:do_an_tot_nghiep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\Form1.cs",
+              "RelativeDocumentMoniker": "Do_an_tot_Nghiep\\Form1.cs",
+              "ToolTip": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\Form1.cs",
+              "RelativeToolTip": "Do_an_tot_Nghiep\\Form1.cs",
+              "ViewState": "AgIAAI8EAAAAAAAAAAAgwKIEAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:58:18.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleDataClient.cs",
+              "DocumentMoniker": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\SimpleDataClient.cs",
+              "RelativeDocumentMoniker": "Do_an_tot_Nghiep\\SimpleDataClient.cs",
+              "ToolTip": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\SimpleDataClient.cs",
+              "RelativeToolTip": "Do_an_tot_Nghiep\\SimpleDataClient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:09:51.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\Form1.cs",
+              "RelativeDocumentMoniker": "Do_an_tot_Nghiep\\Form1.cs",
+              "ToolTip": "D:\\DATN\\C#winform\\Do_an_tot_Nghiep\\Do_an_tot_Nghiep\\Form1.cs [Design]",
+              "RelativeToolTip": "Do_an_tot_Nghiep\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:10:29.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
